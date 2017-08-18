@@ -1,0 +1,833 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz/vendor/phake/phake/src/Phake/ClassGenerator/MockClass.php" timestamp="1497362690859">
+        <mark key="'" line="228" column="12" />
+        <mark key="[" line="481" column="36" />
+        <mark key="]" line="481" column="39" />
+        <mark key="." line="481" column="39" />
+        <mark key="^" line="481" column="39" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/graduates/View/Emails/text/cancel_support_to_admin.ctp" timestamp="1499569524102">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/bot/bot_test.go" timestamp="1502814936909">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="48" column="0" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/src/core/Graduate/Model/ContactGraduate.php" timestamp="1499268556693">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="15" column="29" />
+        <mark key="^" line="15" column="29" />
+        <mark key="." line="15" column="29" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/Makefile" timestamp="1499785051010">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="14" />
+        <mark key="." line="6" column="14" />
+        <mark key="^" line="6" column="14" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/graduates/Controller/CancelSpzEventContactsController.php" timestamp="1500083191719">
+        <mark key="'" line="26" column="19" />
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+        <mark key="^" line="44" column="9" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/graduates/Controller/CancelSpzeventContactsController.php" timestamp="1500084228921">
+        <mark key="'" line="53" column="26" />
+        <mark key="[" line="37" column="33" />
+        <mark key="]" line="37" column="48" />
+        <mark key="." line="37" column="48" />
+        <mark key="^" line="37" column="48" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/tajiri0730/yuizen-back-office/manager/app/Controller/AdminOrdersController.php" timestamp="1497876614140">
+        <mark key="'" line="586" column="16" />
+        <mark key="[" line="2929" column="68" />
+        <mark key="]" line="906" column="28" />
+        <mark key="." line="906" column="28" />
+        <mark key="^" line="906" column="28" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/graduates/View/Emails/text/cancel_spzevent_entry_to_admin.ctp" timestamp="1500125465676">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/src/core/Graduate/View/EventCancelContacts/SupportIndexView.php" timestamp="1499589924473">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="16" column="15" />
+        <mark key="]" line="16" column="21" />
+        <mark key="^" line="16" column="21" />
+        <mark key="." line="16" column="21" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/src/core/Graduate/View/EventCancelContacts/SupportConfirmView.php" timestamp="1499589525337">
+        <mark key="'" line="26" column="20" />
+        <mark key="[" line="33" column="5" />
+        <mark key="]" line="33" column="4" />
+        <mark key="." line="33" column="4" />
+        <mark key="^" line="33" column="4" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/src/core/Graduate/Repository/SpzEventEntryRepositoryInterface.php" timestamp="1500126554112">
+        <mark key="[" line="5" column="88" />
+        <mark key="]" line="5" column="88" />
+        <mark key="." line="5" column="88" />
+        <mark key="^" line="5" column="88" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/graduates/View/Supports/cancel.ctp" timestamp="1500283861319">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="143" />
+        <mark key="." line="15" column="91" />
+        <mark key="^" line="15" column="77" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/src/core/Graduate/Repository/GraduateRepository.php" timestamp="1499566939328">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="55" />
+        <mark key="." line="42" column="20" />
+        <mark key="^" line="42" column="20" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/graduates/Controller/CancelSupportContactsController.php" timestamp="1500129450460">
+        <mark key="[" line="97" column="9" />
+        <mark key="]" line="97" column="10" />
+        <mark key="^" line="97" column="10" />
+        <mark key="." line="97" column="10" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/commands/default.go" timestamp="1502806621465">
+        <mark key="'" line="0" column="16" />
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz/app/graduate/src/Model/EventTagModel.php" timestamp="1496563783641">
+        <mark key="'" line="22" column="4" />
+        <mark key="[" line="29" column="32" />
+        <mark key="]" line="29" column="39" />
+        <mark key="." line="29" column="39" />
+        <mark key="^" line="29" column="39" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/src/core/Graduate/ServiceProvider.php" timestamp="1500125869348">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="^" line="97" column="64" />
+        <mark key="." line="98" column="0" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/graduates/View/Supports/cancel_for_entry_event.ctp" timestamp="1500262637463">
+        <mark key="[" line="10" column="101" />
+        <mark key="]" line="10" column="101" />
+        <mark key="." line="10" column="101" />
+        <mark key="^" line="10" column="99" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/message_test.go" timestamp="1502807546363">
+        <mark key="[" line="17" column="30" />
+        <mark key="]" line="17" column="40" />
+        <mark key="." line="17" column="40" />
+        <mark key="^" line="17" column="40" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/graduates/View/CancelSupportContacts/confirm.ctp" timestamp="1500129194727">
+        <mark key="[" line="24" column="26" />
+        <mark key="]" line="24" column="26" />
+        <mark key="." line="24" column="26" />
+        <mark key="^" line="11" column="42" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/src/core/Graduate/Model/CancelEntryModel.php" timestamp="1499270141058">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="29" column="5" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/graduates/View/Supports/accepted.ctp" timestamp="1500260813996">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="4" />
+        <mark key="^" line="12" column="4" />
+        <mark key="." line="12" column="4" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/chocopie116/Phake/tests/PhakeTest/NullableTypes.php" timestamp="1497368960456">
+        <mark key="'" line="32" column="39" />
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/src/core/Graduate/Model/ContactGraduateModel.php" timestamp="1499270202681">
+        <mark key="'" line="3" column="6" />
+        <mark key="[" line="16" column="5" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz/test/Graduate/Model/SupportRejectedReasonModelTest.php" timestamp="1496501504330">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="16" column="1" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/graduates/View/CancelSpzeventContacts/index.ctp" timestamp="1500083729413">
+        <mark key="'" line="24" column="19" />
+        <mark key="[" line="6" column="46" />
+        <mark key="]" line="6" column="53" />
+        <mark key="." line="6" column="53" />
+        <mark key="^" line="6" column="53" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz/test/Integration/SupportTest.php" timestamp="1497536433747">
+        <mark key="'" line="231" column="12" />
+        <mark key="[" line="253" column="0" />
+        <mark key="]" line="253" column="0" />
+        <mark key="." line="253" column="0" />
+        <mark key="^" line="252" column="94" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/graduates/View/Elements/Spevent/attend.ctp" timestamp="1500283533109">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="6" column="51" />
+        <mark key="]" line="6" column="50" />
+        <mark key="^" line="6" column="50" />
+        <mark key="." line="6" column="50" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/test/core/Graduate/Form/CancelSupportContactFormTest.php" timestamp="1499589111346">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="18" column="54" />
+        <mark key="]" line="18" column="55" />
+        <mark key="^" line="22" column="67" />
+        <mark key="." line="18" column="55" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/src/core/Graduate/Repository/EntryRepository.php" timestamp="1499876220174">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="8" column="33" />
+        <mark key="]" line="8" column="33" />
+        <mark key="." line="8" column="33" />
+        <mark key="^" line="8" column="57" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/test/core/Graduate/Service/SpzEventEntryManagerTest.php" timestamp="1500127223997">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="35" column="67" />
+        <mark key="]" line="35" column="75" />
+        <mark key="." line="35" column="75" />
+        <mark key="^" line="35" column="75" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/tajiri0730/yuizen/resources/views/auth/login.blade.php" timestamp="1497681207022">
+        <mark key="'" line="62" column="68" />
+        <mark key="[" line="26" column="76" />
+        <mark key="]" line="26" column="82" />
+        <mark key="^" line="26" column="82" />
+        <mark key="." line="26" column="82" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/bot/reponse.go" timestamp="1502809440965">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz/app/graduate/src/Model/OfferedEventDateModel.php" timestamp="1496667990363">
+        <mark key="'" line="65" column="4" />
+        <mark key="[" line="89" column="33" />
+        <mark key="]" line="89" column="33" />
+        <mark key="^" line="89" column="33" />
+        <mark key="." line="89" column="33" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/src/core/Graduate/Form/CancelEntryContactForm.php" timestamp="1500124602011">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="14" column="72" />
+        <mark key="^" line="14" column="72" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz/app/graduate/src/Model/SupportDetailModel.php" timestamp="1496670863276">
+        <mark key="'" line="62" column="4" />
+        <mark key="[" line="128" column="15" />
+        <mark key="]" line="128" column="19" />
+        <mark key="." line="128" column="19" />
+        <mark key="^" line="128" column="19" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/src/core/Graduate/Service/Entrymanager.php" timestamp="1499875961542">
+        <mark key="'" line="6" column="21" />
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="8" column="17" />
+        <mark key="^" line="8" column="17" />
+        <mark key="." line="8" column="17" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/bot.go" timestamp="1502808019680">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="8" column="23" />
+        <mark key="m" line="8" column="12" />
+        <mark key="]" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+        <mark key="^" line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/graduates/View/CancelSupportContacts/index.ctp" timestamp="1500128990557">
+        <mark key="'" line="31" column="52" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="60" />
+        <mark key="^" line="11" column="60" />
+        <mark key="." line="22" column="30" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/chocopie116/pipi/functions/slackbot/main.go" timestamp="1502597684265">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="25" column="28" />
+        <mark key="]" line="25" column="36" />
+        <mark key="." line="25" column="36" />
+        <mark key="^" line="25" column="36" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/bot/cmd_default.go" timestamp="1502815106013">
+        <mark key="'" line="5" column="19" />
+        <mark key="[" line="10" column="40" />
+        <mark key="]" line="10" column="8" />
+        <mark key="." line="10" column="8" />
+        <mark key="^" line="10" column="8" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/src/core/Graduate/Model/SpzEventEntryModel.php" timestamp="1500085645407">
+        <mark key="'" line="17" column="63" />
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/src/core/Graduate/Service/SupportManager.php" timestamp="1499875660845">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="72" column="9" />
+        <mark key="^" line="34" column="13" />
+        <mark key="." line="34" column="13" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/graduates/View/EventCancelContacts/Support/index.ctp" timestamp="1499562832320">
+        <mark key="'" line="36" column="12" />
+        <mark key="[" line="10" column="40" />
+        <mark key="]" line="10" column="47" />
+        <mark key="." line="10" column="47" />
+        <mark key="^" line="10" column="47" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/graduates/Controller/SupportCancelContactsController.php" timestamp="1499564358875">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="5" column="20" />
+        <mark key="^" line="53" column="26" />
+        <mark key="." line="5" column="20" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/chocopie116/pipi/functions/slackbot/function.json" timestamp="1502591873856">
+        <mark key="[" line="1" column="20" />
+        <mark key="]" line="1" column="25" />
+        <mark key="." line="1" column="25" />
+        <mark key="^" line="1" column="25" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz/app/lib/Enum/SupportReadStatus.php" timestamp="1496498481830">
+        <mark key="'" line="11" column="15" />
+        <mark key="[" line="6" column="1" />
+        <mark key="]" line="7" column="9" />
+        <mark key="^" line="7" column="9" />
+        <mark key="." line="7" column="9" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/graduates/View/Emails/text/cancel_support_to_graduate.ctp" timestamp="1499569635433">
+        <mark key="'" line="0" column="14" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="25" />
+        <mark key="." line="2" column="25" />
+        <mark key="^" line="2" column="25" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/message.go" timestamp="1502814911063">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/graduates/View/Emails/text/cancel_entry_to_graduate.ctp" timestamp="1499875879833">
+        <mark key="'" line="12" column="15" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="12" column="15" />
+        <mark key="^" line="12" column="15" />
+        <mark key="." line="12" column="15" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/chocopie116/Phake/tests/Phake/ClassGenerator/MockClassTest.php" timestamp="1497369090013">
+        <mark key="'" line="69" column="4" />
+        <mark key="[" line="829" column="40" />
+        <mark key="]" line="829" column="40" />
+        <mark key="." line="829" column="40" />
+        <mark key="^" line="877" column="30" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/apex/params.json" timestamp="1502817513131">
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="12" column="25" />
+        <mark key="." line="12" column="25" />
+        <mark key="^" line="12" column="25" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/commands/command.go" timestamp="1502808006433">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/graduates/Controller/CancelEntryContactsController.php" timestamp="1500128818958">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="81" />
+        <mark key="." line="40" column="4" />
+        <mark key="^" line="40" column="4" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/Makefile" timestamp="1502637211633">
+        <mark key="[" line="1" column="43" />
+        <mark key="]" line="2" column="13" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/test/lib/MockMailer.php" timestamp="1499784820308">
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
+        <mark key="^" line="7" column="22" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/test/core/Graduate/Repository/MockEntryRepository.php" timestamp="1499876702880">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="16" column="36" />
+        <mark key="]" line="16" column="36" />
+        <mark key="^" line="16" column="36" />
+        <mark key="." line="16" column="36" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/chocopie116/pipi/params.json" timestamp="1502593639611">
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="13" column="3" />
+        <mark key="^" line="13" column="3" />
+        <mark key="." line="13" column="3" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/graduates/View/Emails/text/cancel_entry_to_admin.ctp" timestamp="1499875866422">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="9" column="51" />
+        <mark key="]" line="9" column="57" />
+        <mark key="^" line="9" column="57" />
+        <mark key="." line="9" column="57" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1502628337647">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/graduates/View/EventCancelContacts/Support/confirm.ctp" timestamp="1499563179761">
+        <mark key="[" line="12" column="71" />
+        <mark key="]" line="12" column="71" />
+        <mark key="." line="12" column="71" />
+        <mark key="^" line="12" column="71" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/apex/functions/slackbot/main.go" timestamp="1502817558833">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="17" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/src/core/Graduate/Repository/SpzEventEntryRepository.php" timestamp="1500126568273">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="6" column="29" />
+        <mark key="]" line="6" column="72" />
+        <mark key="^" line="6" column="72" />
+        <mark key="." line="6" column="72" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/graduates/Controller/CancelSpzeventEntryContactsController.php" timestamp="1500126234224">
+        <mark key="'" line="36" column="4" />
+        <mark key="[" line="124" column="9" />
+        <mark key="]" line="124" column="10" />
+        <mark key="^" line="124" column="9" />
+        <mark key="." line="124" column="10" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/src/core/Graduate/Service/EventCancelManager.php" timestamp="1499568952486">
+        <mark key="'" line="37" column="31" />
+        <mark key="[" line="21" column="26" />
+        <mark key="]" line="21" column="30" />
+        <mark key="." line="21" column="30" />
+        <mark key="^" line="21" column="30" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/graduates/View/Emails/text/cancel_spzevent_entry_to_graduate.ctp" timestamp="1500125476419">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/src/core/Graduate/Service/GraduateManager.php" timestamp="1500126208126">
+        <mark key="'" line="9" column="50" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="20" column="64" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/src/core/Graduate/View/EventCancelContacts/IndexView.php" timestamp="1499559258493">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="55" />
+        <mark key="." line="17" column="37" />
+        <mark key="^" line="43" column="59" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/wercker.yml" timestamp="1502637196114">
+        <mark key="'" line="4" column="6" />
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="6" column="22" />
+        <mark key="^" line="6" column="58" />
+        <mark key="." line="6" column="22" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/bot/bot.go" timestamp="1502814710482">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/src/core/Graduate/Service/EntryManager.php" timestamp="1500125201031">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="52" column="9" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="16" column="32" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/chocopie116/Phake/tests/PhakeTest/NullableScalarTypes.php" timestamp="1497368953096">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz/test/Graduate/Service/SupportManagerTest.php" timestamp="1497362718115">
+        <mark key="'" line="16" column="29" />
+        <mark key="[" line="119" column="79" />
+        <mark key="]" line="119" column="82" />
+        <mark key="." line="119" column="82" />
+        <mark key="^" line="119" column="82" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/bot_test.go" timestamp="1502807190941">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="^" line="39" column="51" />
+        <mark key="." line="39" column="51" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/src/core/Graduate/Service/SpzEventEntryManager.php" timestamp="1500126921767">
+        <mark key="'" line="42" column="17" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="16" column="40" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz/app/graduate/src/Model/AcceptedEventDateModel.php" timestamp="1496561598508">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="55" column="44" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/graduates/View/CancelSpzeventContacts/confirm.ctp" timestamp="1500083762585">
+        <mark key="'" line="21" column="20" />
+        <mark key="[" line="6" column="53" />
+        <mark key="]" line="6" column="53" />
+        <mark key="." line="6" column="53" />
+        <mark key="^" line="6" column="53" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/src/core/Graduate/Form/CancelSupportContactForm.php" timestamp="1499589132580">
+        <mark key="'" line="19" column="4" />
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/.go/src/github.com/chocopie116/chocopie116.github.io/assets/css/chocopie116.css" timestamp="1500219516008">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="35" column="19" />
+        <mark key="]" line="35" column="20" />
+        <mark key="." line="35" column="20" />
+        <mark key="^" line="26" column="20" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="77" column="16" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/bot_test.go" />
+      <jump line="4" column="9" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/bot_test.go" />
+      <jump line="40" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/bot_test.go" />
+      <jump line="79" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/bot_test.go" />
+      <jump line="43" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/bot_test.go" />
+      <jump line="53" column="20" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/bot_test.go" />
+      <jump line="17" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/bot_test.go" />
+      <jump line="75" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/bot_test.go" />
+      <jump line="56" column="15" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/bot_test.go" />
+      <jump line="19" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/bot.go" />
+      <jump line="4" column="6" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/wercker.yml" />
+      <jump line="29" column="27" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/bot.go" />
+      <jump line="32" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/bot.go" />
+      <jump line="24" column="34" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/bot_test.go" />
+      <jump line="30" column="31" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/bot_test.go" />
+      <jump line="0" column="16" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/commands/default.go" />
+      <jump line="31" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/bot.go" />
+      <jump line="13" column="20" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/bot.go" />
+      <jump line="11" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/bot_test.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/bot_test.go" />
+      <jump line="34" column="28" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/message_test.go" />
+      <jump line="27" column="18" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/message_test.go" />
+      <jump line="22" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/message_test.go" />
+      <jump line="4" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/message_test.go" />
+      <jump line="12" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/bot_test.go" />
+      <jump line="6" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/message_test.go" />
+      <jump line="26" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/message_test.go" />
+      <jump line="24" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/message.go" />
+      <jump line="20" column="5" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/bot.go" />
+      <jump line="45" column="72" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/bot.go" />
+      <jump line="8" column="24" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/bot.go" />
+      <jump line="12" column="5" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/bot.go" />
+      <jump line="25" column="8" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/bot.go" />
+      <jump line="46" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/bot.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/bot.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/bot/bot.go" />
+      <jump line="7" column="19" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/bot/bot.go" />
+      <jump line="41" column="30" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/bot/bot.go" />
+      <jump line="6" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/bot/bot.go" />
+      <jump line="10" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/bot/bot.go" />
+      <jump line="23" column="18" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/bot/bot_test.go" />
+      <jump line="69" column="39" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/bot/bot_test.go" />
+      <jump line="27" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/bot/bot.go" />
+      <jump line="17" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/message.go" />
+      <jump line="3" column="42" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/message.go" />
+      <jump line="20" column="18" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/message.go" />
+      <jump line="19" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/message.go" />
+      <jump line="2" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/bot/bot.go" />
+      <jump line="78" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/bot/bot_test.go" />
+      <jump line="21" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/bot/bot.go" />
+      <jump line="19" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/bot/bot.go" />
+      <jump line="42" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/bot/bot.go" />
+      <jump line="2" column="11" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/bot/reponse.go" />
+      <jump line="55" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/bot/bot.go" />
+      <jump line="5" column="19" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/bot/cmd_default.go" />
+      <jump line="53" column="24" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/bot/bot_test.go" />
+      <jump line="61" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/bot/bot_test.go" />
+      <jump line="82" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/bot/bot_test.go" />
+      <jump line="79" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/bot/bot_test.go" />
+      <jump line="25" column="13" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/bot/bot.go" />
+      <jump line="17" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/apex/functions/slackbot/main.go" />
+      <jump line="22" column="36" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/apex/functions/slackbot/main.go" />
+      <jump line="64" column="8" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/bot/bot.go" />
+      <jump line="35" column="32" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/bot/bot.go" />
+      <jump line="19" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/apex/functions/slackbot/main.go" />
+      <jump line="16" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/bot/bot.go" />
+      <jump line="40" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/bot/bot.go" />
+      <jump line="59" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/bot/bot.go" />
+      <jump line="36" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/bot/bot.go" />
+      <jump line="43" column="14" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/bot/bot.go" />
+      <jump line="13" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/message.go" />
+      <jump line="13" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/apex/functions/slackbot/main.go" />
+      <jump line="56" column="8" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/bot/bot.go" />
+      <jump line="9" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/apex/functions/slackbot/main.go" />
+      <jump line="7" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/apex/functions/slackbot/main.go" />
+      <jump line="40" column="5" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/apex/functions/slackbot/main.go" />
+      <jump line="16" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/apex/functions/slackbot/main.go" />
+      <jump line="2" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/message.go" />
+      <jump line="30" column="8" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/apex/functions/slackbot/main.go" />
+      <jump line="10" column="5" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/apex/functions/slackbot/main.go" />
+      <jump line="50" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/bot/bot_test.go" />
+      <jump line="11" column="9" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/apex/functions/slackbot/main.go" />
+      <jump line="58" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/apex/functions/slackbot/main.go" />
+      <jump line="25" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/apex/functions/slackbot/main.go" />
+      <jump line="45" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/apex/functions/slackbot/main.go" />
+      <jump line="44" column="9" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/apex/functions/slackbot/main.go" />
+      <jump line="56" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/apex/functions/slackbot/main.go" />
+      <jump line="27" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/apex/functions/slackbot/main.go" />
+      <jump line="70" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/apex/functions/slackbot/main.go" />
+      <jump line="14" column="45" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/apex/functions/slackbot/main.go" />
+      <jump line="69" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/apex/functions/slackbot/main.go" />
+      <jump line="23" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/apex/functions/slackbot/main.go" />
+      <jump line="76" column="16" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/apex/functions/slackbot/main.go" />
+      <jump line="28" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/apex/functions/slackbot/main.go" />
+      <jump line="73" column="5" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/apex/functions/slackbot/main.go" />
+      <jump line="47" column="16" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/apex/functions/slackbot/main.go" />
+      <jump line="66" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/apex/functions/slackbot/main.go" />
+      <jump line="53" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/apex/functions/slackbot/main.go" />
+      <jump line="62" column="51" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/apex/functions/slackbot/main.go" />
+      <jump line="21" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/apex/functions/slackbot/main.go" />
+    </jumps>
+    <registers>
+      <register name="a" type="4">
+        <keys>
+          <key char="65535" code="10" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="38" code="0" mods="0" />
+          <key char="38" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="80" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="84" code="0" mods="0" />
+          <key char="72" code="0" mods="0" />
+          <key char="65535" code="91" mods="130" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="38" code="0" mods="0" />
+          <key char="38" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="65535" code="91" mods="130" />
+          <key char="59" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CSJzdHJpbmdzIgo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>:</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxmb3JtYXRTbGFja1Jlc3BvbnNlXD4=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">CVRleHQgc3RyaW5nIGBqc29uOiJ0ZXh0ImAK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">CSJzdHJpbmdzIgo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAidHJpZ2dlcl93b3JkIjogInBpcHBpIgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CXZhciB0IHN0cmluZwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CXZhciB0IHN0cmluZwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQlsb2cuUHJpbnQoIm1hamlkZSIpCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxmb3JtYXRTbGFja1Jlc3BvbnNlXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxmb3JtYXRTbGFja1Jlc3BvbnNlXD4=</last-pattern>
+      <last-replace>slack.ChatMessage</last-replace>
+      <last-substitute>ChatMessage</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>SlackBotImpl</entry>
+        <entry>cmd</entry>
+        <entry encoding="base64">XDxCb3RSZXNwb25zZVw+</entry>
+        <entry>atsuage</entry>
+        <entry>majide</entry>
+        <entry>il</entry>
+        <entry>Parse</entry>
+        <entry>r.text</entry>
+        <entry>text</entry>
+        <entry>here</entry>
+        <entry>log</entry>
+        <entry encoding="base64">XDxCb3RDbWRcPg==</entry>
+        <entry encoding="base64">XDxCb3RJbXBsXD4=</entry>
+        <entry>ChatMessage</entry>
+        <entry>BotCmd</entry>
+        <entry encoding="base64">XDxjcmVhdGVTdGF0ZW1lbnRcPg==</entry>
+        <entry>BotResponse</entry>
+        <entry>slack</entry>
+        <entry encoding="base64">XDxmYWN0b3J5Qm90U3RhdGVtZW50XD4=</entry>
+        <entry encoding="base64">XDxmb3JtYXRTbGFja1Jlc3BvbnNlXD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>27</entry>
+        <entry>24</entry>
+        <entry>16</entry>
+        <entry>59</entry>
+        <entry>wqa</entry>
+        <entry>%s /ChatMessage/slack.ChageMessage/gc</entry>
+        <entry>%s /ChatMessage/slack.ChatMessage/gc</entry>
+        <entry>53</entry>
+        <entry>20</entry>
+        <entry>62</entry>
+        <entry>7</entry>
+        <entry>31</entry>
+        <entry>44</entry>
+        <entry>6</entry>
+        <entry>36</entry>
+        <entry>64</entry>
+        <entry>42</entry>
+        <entry>14</entry>
+        <entry>38</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
