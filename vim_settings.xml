@@ -211,8 +211,8 @@
         <mark key="." line="8" column="33" />
         <mark key="^" line="8" column="57" />
       </file>
-      <file name="$USER_HOME$/.go/src/github.com/s-tajima/vg12isucon/isucon7/resources/go/src/isubata/app.go" timestamp="1508772937391">
-        <mark key="'" line="413" column="8" />
+      <file name="$USER_HOME$/.go/src/github.com/s-tajima/vg12isucon/isucon7/resources/go/src/isubata/app.go" timestamp="1508773751677">
+        <mark key="'" line="134" column="0" />
         <mark key="[" line="855" column="41" />
         <mark key="]" line="855" column="42" />
         <mark key="." line="855" column="42" />
@@ -546,8 +546,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/bot_test.go" />
-      <jump line="34" column="28" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/message_test.go" />
       <jump line="27" column="18" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/message_test.go" />
       <jump line="22" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/message_test.go" />
       <jump line="4" column="0" filename="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/message_test.go" />
@@ -646,6 +644,8 @@
       <jump line="384" column="11" filename="$USER_HOME$/.go/src/github.com/s-tajima/vg12isucon/isucon7/resources/go/src/isubata/app.go" />
       <jump line="401" column="25" filename="$USER_HOME$/.go/src/github.com/s-tajima/vg12isucon/isucon7/resources/go/src/isubata/app.go" />
       <jump line="413" column="8" filename="$USER_HOME$/.go/src/github.com/s-tajima/vg12isucon/isucon7/resources/go/src/isubata/app.go" />
+      <jump line="287" column="0" filename="$USER_HOME$/.go/src/github.com/s-tajima/vg12isucon/isucon7/resources/go/src/isubata/app.go" />
+      <jump line="134" column="0" filename="$USER_HOME$/.go/src/github.com/s-tajima/vg12isucon/isucon7/resources/go/src/isubata/app.go" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -723,7 +723,7 @@
         <text>:</text>
       </register>
       <register name="/" type="4">
-        <text>user</text>
+        <text>getUser</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CVRleHQgc3RyaW5nIGBqc29uOiJ0ZXh0ImAK</text>
@@ -760,9 +760,9 @@
       </register>
     </registers>
     <search>
-      <last-search>user</last-search>
+      <last-search>getUser</last-search>
       <last-offset />
-      <last-pattern>user</last-pattern>
+      <last-pattern>getUser</last-pattern>
       <last-replace>slack.ChatMessage</last-replace>
       <last-substitute>ChatMessage</last-substitute>
       <last-dir>1</last-dir>
@@ -770,7 +770,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Parse</entry>
         <entry>r.text</entry>
         <entry>text</entry>
         <entry>here</entry>
@@ -790,6 +789,7 @@
         <entry>time</entry>
         <entry encoding="base64">XDxnZXRNZXNzYWdlXD4=</entry>
         <entry>user</entry>
+        <entry>getUser</entry>
       </history-search>
       <history-cmd>
         <entry>27</entry>
