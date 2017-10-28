@@ -411,7 +411,6 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/.go/src/github.com/s-tajima/vg12isucon/isucon7/tare/golang/redis/redis.go" timestamp="1508774720200" />
       <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/graduates/View/Emails/text/cancel_entry_to_admin.ctp" timestamp="1499875866422">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="9" column="51" />
@@ -424,12 +423,6 @@
         <mark key="]" line="12" column="71" />
         <mark key="." line="12" column="71" />
         <mark key="^" line="12" column="71" />
-      </file>
-      <file name="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/apex/functions/slackbot/main.go" timestamp="1502817558833">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="17" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/src/core/Graduate/Repository/SpzEventEntryRepository.php" timestamp="1500126568273">
         <mark key="'" line="18" column="0" />
