@@ -202,6 +202,12 @@
         <mark key="^" line="6" column="50" />
         <mark key="." line="6" column="50" />
       </file>
+      <file name="$USER_HOME$/.go/src/github.com/awslabs/amazon-kinesis-video-streams-producer-sdk-java/src/main/demo/com/amazonaws/kinesisvideo/demoapp/DemoAppMain.java" timestamp="1512919084952">
+        <mark key="[" line="15" column="47" />
+        <mark key="]" line="15" column="55" />
+        <mark key="." line="15" column="55" />
+        <mark key="^" line="15" column="55" />
+      </file>
       <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/test/core/Graduate/Form/CancelSupportContactFormTest.php" timestamp="1499589111346">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="18" column="54" />
@@ -722,11 +728,11 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQl2Z2xvZy5WCg==</text>
+      <register name="&quot;" type="4">
+        <text>my-stream</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>my-stream</text>
       </register>
       <register name="/" type="4">
         <text>Pp</text>
@@ -762,7 +768,7 @@
         <text encoding="base64">CS8vcmVkaXMKCXUuQXZhdGFySWNvbiA9ICJkZWZhdWx0LnBuZyIK</text>
       </register>
       <register name=":" type="4">
-        <text>66</text>
+        <text>wqa</text>
       </register>
     </registers>
     <search>
@@ -813,11 +819,11 @@
         <entry>42</entry>
         <entry>14</entry>
         <entry>38</entry>
-        <entry>wqa</entry>
         <entry>155</entry>
         <entry>159</entry>
-        <entry>w</entry>
         <entry>66</entry>
+        <entry>w</entry>
+        <entry>wqa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
