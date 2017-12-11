@@ -206,11 +206,11 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="20" column="80" />
       </file>
-      <file name="$USER_HOME$/.go/src/github.com/awslabs/amazon-kinesis-video-streams-producer-sdk-java/src/main/demo/com/amazonaws/kinesisvideo/demoapp/DemoAppMain.java" timestamp="1512919084952">
-        <mark key="[" line="15" column="47" />
-        <mark key="]" line="15" column="55" />
-        <mark key="." line="15" column="55" />
-        <mark key="^" line="15" column="55" />
+      <file name="$USER_HOME$/.go/src/github.com/awslabs/amazon-kinesis-video-streams-producer-sdk-java/src/main/demo/com/amazonaws/kinesisvideo/demoapp/DemoAppMain.java" timestamp="1513008247084">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/test/core/Graduate/Form/CancelSupportContactFormTest.php" timestamp="1499589111346">
         <mark key="'" line="7" column="0" />
@@ -289,7 +289,7 @@
         <mark key="^" line="11" column="60" />
         <mark key="." line="22" column="30" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/amazonaws/aws-java-sdk-core/1.11.172/aws-java-sdk-core-1.11.172-sources.jar!/com/amazonaws/auth/SystemPropertiesCredentialsProvider.java" timestamp="1513007168898">
+      <file name="$MAVEN_REPOSITORY$/com/amazonaws/aws-java-sdk-core/1.11.172/aws-java-sdk-core-1.11.172-sources.jar!/com/amazonaws/auth/SystemPropertiesCredentialsProvider.java" timestamp="1513007539839">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="91" />
       </file>
@@ -569,8 +569,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="312" column="31" filename="$USER_HOME$/.go/src/github.com/s-tajima/vg12isucon/isucon7/resources/go/src/isubata/app.go" />
-      <jump line="331" column="8" filename="$USER_HOME$/.go/src/github.com/s-tajima/vg12isucon/isucon7/resources/go/src/isubata/app.go" />
       <jump line="340" column="25" filename="$USER_HOME$/.go/src/github.com/s-tajima/vg12isucon/isucon7/resources/go/src/isubata/app.go" />
       <jump line="364" column="8" filename="$USER_HOME$/.go/src/github.com/s-tajima/vg12isucon/isucon7/resources/go/src/isubata/app.go" />
       <jump line="368" column="35" filename="$USER_HOME$/.go/src/github.com/s-tajima/vg12isucon/isucon7/resources/go/src/isubata/app.go" />
@@ -669,6 +667,8 @@
       <jump line="58" column="24" filename="$USER_HOME$/.go/src/github.com/s-tajima/vg12isucon/isucon7/resources/go/src/isubata/app.go" />
       <jump line="69" column="8" filename="$USER_HOME$/.go/src/github.com/s-tajima/vg12isucon/isucon7/resources/go/src/isubata/log.go" />
       <jump line="57" column="8" filename="$USER_HOME$/.go/src/github.com/s-tajima/vg12isucon/isucon7/resources/go/src/isubata/log.go" />
+      <jump line="31" column="54" filename="$USER_HOME$/.go/src/github.com/awslabs/amazon-kinesis-video-streams-producer-sdk-java/src/main/demo/com/amazonaws/kinesisvideo/demoapp/DemoAppMain.java" />
+      <jump line="32" column="0" filename="$USER_HOME$/.go/src/github.com/awslabs/amazon-kinesis-video-streams-producer-sdk-java/src/main/demo/com/amazonaws/kinesisvideo/demoapp/DemoAppMain.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -740,46 +740,46 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgYWNjZXNzS2V5ID0gU3RyaW5nVXRpbHMudHJpbShTeXN0ZW0uZ2V0UHJvcGVydHkoQUNDRVNTX0tFWV9TWVNURU1fUFJPUEVSVFkpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>my-stream</text>
+        <text>credentials-profile-name</text>
       </register>
       <register name="/" type="4">
         <text>Pp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgYWNjZXNzS2V5ID0gU3RyaW5nVXRpbHMudHJpbShTeXN0ZW0uZ2V0UHJvcGVydHkoQUNDRVNTX0tFWV9TWVNURU1fUFJPUEVSVFkpKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBGUFNfMjUgPSAyNTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQl2Z2xvZy5WCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQl2Z1BwKHNlcmlhbGl6ZWQpCg==</text>
+        <text encoding="base64">ICAgIGEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl2Z1BwKGtleSkK</text>
+        <text encoding="base64">CQl2Z2xvZy5WCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl2Z1BwKGVycikK</text>
+        <text encoding="base64">CQl2Z1BwKHNlcmlhbGl6ZWQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl2Z1BwKHNlcmlhbGl6ZWQpCg==</text>
+        <text encoding="base64">CQl2Z1BwKGtleSkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">CQl2Z1BwKGVycikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl2Z1BwKGtleSkK</text>
+        <text encoding="base64">CQl2Z1BwKHNlcmlhbGl6ZWQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXUuRGlzcGxheU5hbWUgPSBjLkZvcm1WYWx1ZSgiZGlzcGxheV9uYW1lIikK</text>
+        <text encoding="base64">CQl2Z1BwKGVycikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8vcmVkaXMKCXUuQXZhdGFySWNvbiA9ICJkZWZhdWx0LnBuZyIK</text>
+        <text encoding="base64">CQl2Z1BwKGtleSkK</text>
       </register>
       <register name=":" type="4">
-        <text>wqa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -833,8 +833,8 @@
         <entry>155</entry>
         <entry>159</entry>
         <entry>66</entry>
-        <entry>w</entry>
         <entry>wqa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
