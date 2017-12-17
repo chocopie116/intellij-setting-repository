@@ -207,11 +207,7 @@
         <mark key="]" line="20" column="80" />
       </file>
       <file name="$USER_HOME$/.go/src/github.com/awslabs/amazon-kinesis-video-streams-producer-sdk-java/src/main/demo/com/amazonaws/kinesisvideo/demoapp/DemoAppMain.java" timestamp="1513493939889">
-        <mark key="'" line="22" column="14" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="41" column="7" />
-        <mark key="." line="22" column="0" />
+        <mark key="^" line="2" column="7" />
       </file>
       <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/test/core/Graduate/Form/CancelSupportContactFormTest.php" timestamp="1499589111346">
         <mark key="'" line="7" column="0" />
