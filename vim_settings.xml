@@ -206,11 +206,12 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="20" column="80" />
       </file>
-      <file name="$USER_HOME$/.go/src/github.com/awslabs/amazon-kinesis-video-streams-producer-sdk-java/src/main/demo/com/amazonaws/kinesisvideo/demoapp/DemoAppMain.java" timestamp="1513008247084">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/.go/src/github.com/awslabs/amazon-kinesis-video-streams-producer-sdk-java/src/main/demo/com/amazonaws/kinesisvideo/demoapp/DemoAppMain.java" timestamp="1513489433465">
+        <mark key="'" line="23" column="14" />
+        <mark key="[" line="22" column="33" />
+        <mark key="]" line="22" column="33" />
+        <mark key="^" line="22" column="33" />
+        <mark key="." line="22" column="33" />
       </file>
       <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/test/core/Graduate/Form/CancelSupportContactFormTest.php" timestamp="1499589111346">
         <mark key="'" line="7" column="0" />
@@ -387,7 +388,6 @@
         <mark key="." line="12" column="25" />
         <mark key="^" line="12" column="25" />
       </file>
-      <file name="$USER_HOME$/.go/src/github.com/awslabs/amazon-kinesis-video-streams-producer-sdk-java/src/main/demo/com/amazonaws/kinesisvideo/demoapp/auth/AuthHelper.java" timestamp="1513007114166" />
       <file name="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/commands/command.go" timestamp="1502808006433">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="2" column="0" />
@@ -569,7 +569,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="340" column="25" filename="$USER_HOME$/.go/src/github.com/s-tajima/vg12isucon/isucon7/resources/go/src/isubata/app.go" />
       <jump line="364" column="8" filename="$USER_HOME$/.go/src/github.com/s-tajima/vg12isucon/isucon7/resources/go/src/isubata/app.go" />
       <jump line="368" column="35" filename="$USER_HOME$/.go/src/github.com/s-tajima/vg12isucon/isucon7/resources/go/src/isubata/app.go" />
       <jump line="383" column="25" filename="$USER_HOME$/.go/src/github.com/s-tajima/vg12isucon/isucon7/resources/go/src/isubata/app.go" />
@@ -669,6 +668,7 @@
       <jump line="57" column="8" filename="$USER_HOME$/.go/src/github.com/s-tajima/vg12isucon/isucon7/resources/go/src/isubata/log.go" />
       <jump line="31" column="54" filename="$USER_HOME$/.go/src/github.com/awslabs/amazon-kinesis-video-streams-producer-sdk-java/src/main/demo/com/amazonaws/kinesisvideo/demoapp/DemoAppMain.java" />
       <jump line="32" column="0" filename="$USER_HOME$/.go/src/github.com/awslabs/amazon-kinesis-video-streams-producer-sdk-java/src/main/demo/com/amazonaws/kinesisvideo/demoapp/DemoAppMain.java" />
+      <jump line="23" column="14" filename="$USER_HOME$/.go/src/github.com/awslabs/amazon-kinesis-video-streams-producer-sdk-java/src/main/demo/com/amazonaws/kinesisvideo/demoapp/DemoAppMain.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -739,11 +739,11 @@
           <key char="119" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>credentials-profile-name</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Pp</text>
