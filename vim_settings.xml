@@ -21,6 +21,9 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1513511294033">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/bot/bot_test.go" timestamp="1502814936909">
         <mark key="'" line="48" column="0" />
         <mark key="[" line="4" column="0" />
@@ -195,6 +198,7 @@
         <mark key="." line="253" column="0" />
         <mark key="^" line="252" column="94" />
       </file>
+      <file name="$USER_HOME$/.go/src/github.com/awslabs/amazon-kinesis-video-streams-producer-sdk-java/src/main/java/com/amazonaws/kinesisvideo/producer/jni/NativeLibraryLoader.java" timestamp="1513511541513" />
       <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/graduates/View/Elements/Spevent/attend.ctp" timestamp="1500283533109">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="6" column="51" />
@@ -271,14 +275,6 @@
         <mark key="]" line="8" column="17" />
         <mark key="^" line="8" column="17" />
         <mark key="." line="8" column="17" />
-      </file>
-      <file name="$USER_HOME$/.go/src/github.com/chocopie116/atsuage/slack/bot.go" timestamp="1502808019680">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="8" column="23" />
-        <mark key="m" line="8" column="12" />
-        <mark key="]" line="8" column="23" />
-        <mark key="." line="8" column="23" />
-        <mark key="^" line="32" column="0" />
       </file>
       <file name="$USER_HOME$/.go/src/github.com/voyagegroup/supporterz-legacy/graduates/View/CancelSupportContacts/index.ctp" timestamp="1500128990557">
         <mark key="'" line="31" column="52" />
